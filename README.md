@@ -4,6 +4,14 @@ Welcome to the **Java Collections Framework (JCF) Playground** — a curated rep
 
 ---
 
+## Projects of this repository:
+ - [Custom-Implementation](Custom-Implementations/README.md)
+ - [Learning-Collections-Framework](Learning-Collections-Framework/README.md)
+
+
+
+---
+
 ## 📚 What is the Java Collections Framework?
 
 The **Java Collections Framework** is a unified architecture for storing and manipulating groups of objects. It provides **interfaces**, **implementations**, and **algorithms** to handle data structures efficiently.
